@@ -76,3 +76,4 @@ if __name__ == '__main__':
             # Close the Kafka producer
             if producer:
                 producer.close()
+
