@@ -22,7 +22,3 @@ Potential Use Cases:
 - Climate Studies: The dataset can be used for climate studies and analysis to understand weather patterns and trends in different regions.
 - Educational Purposes: Students and educators can use this dataset to learn about data analysis, visualization, and modeling techniques in the context of weather data.
 
-Acknowledgements:
-
-- This dataset was generated using Python's Faker library.
-- Special thanks to the Faker library developers for providing tools to create synthetic data for various purposes.
