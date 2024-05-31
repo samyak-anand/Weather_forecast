@@ -1,0 +1,6 @@
+location_id,latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+0,52.54833,13.407822,46,7200,Europe/Berlin,CEST
+1,53.532513,9.980879,11,7200,Europe/Berlin,CEST
+2,48.119507,11.55,524,7200,Europe/Berlin,CEST
+3,50.08787,8.653846,117,7200,Europe/Berlin,CEST
+4,52.337433,14.5,28,7200,Europe/Berlin,CEST
